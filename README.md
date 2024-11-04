@@ -23,9 +23,9 @@ Clic gauche maintenu, flèches directionnelles maintenues ou gâchette droite d'
 
 Ce jeu a été réalisé grâce à la formation "Débuter sur Unreal Engine 5 (Formation pour Débutants)" sur la chaîne YouTube Gamedevteacher de Evans Bohl, formateur Unreal Engine 5 agréé par Epic Games.
 
-Lien de la formation : [Débuter sur Unreal Engine 5 - YouTube]https://youtube.com/playlist?list=PLqFwziU9ZewN2q15hwni2qSI5sbkQYizF&si=NYe4U_oyFLqNCppX)
+Lien de la formation : https://youtube.com/playlist?list=PLqFwziU9ZewN2q15hwni2qSI5sbkQYizF&si=NYe4U_oyFLqNCppX
 
-Merci à lui ! Je vais continuer à me former grâce à ses formations : d'autres jeux arriveront bientôt. À terme, je posterai sur mon profil des jeux imaginés par mes soins. Le répertoire de ce premier jeu (Cloud Race) est déjà accessible ici si vous souhaitez vous y intéresser : [Cloud Race sur GitHub](https://github.com/TristanDelonglee/Cloud-Race)
+Merci à lui ! Je vais continuer à me former grâce à ses formations : d'autres jeux arriveront bientôt. À terme, je posterai sur mon profil des jeux imaginés par mes soins. Le répertoire de ce premier jeu (Cloud Race) est déjà accessible ici si vous souhaitez vous y intéresser : https://github.com/TristanDelonglee/Cloud-Race
 
 Notes :
 
