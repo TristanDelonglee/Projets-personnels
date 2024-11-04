@@ -13,11 +13,7 @@ Voici les commandes :
 
 Z, Q, S, D ou le joystick gauche d'une manette connectée à l'ordinateur : se déplacer
 
-Z : avancer
-Q : aller à gauche
-S : reculer
-D : aller à droite
-Bouger la souris, flèches directionnelles ou joystick droit d'une manette : orienter le personnage
+Z : avancer                                                                                                                                                                                                                            Q : aller à gauche                                                                                                                                                                                                                      S : reculer                                                                                                                                                                                                                            D : aller à droite                                                                                                                                                                                                                     Bouger la souris, flèches directionnelles ou joystick droit d'une manette : orienter le personnage
 
 Clic gauche maintenu, flèches directionnelles maintenues ou gâchette droite d'une manette maintenue : tirer
 
