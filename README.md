@@ -1,3 +1,7 @@
+Un jeu amusant de tir à la vue du dessus. Votre but est de survivre et de faire le plus gros score en éliminant des ennemis. Plus vous en éliminez, plus leur nombre augmente.
+
+COMMENT INSTALLER LE JEU ?
+
 Une fois le dossier zip téléchargé, cliquez sur "extraire tout" et pour lancer le jeu, allez dans le dossier "Windows" et cliquez sur "TopDownShooter.exe"
 ATTENTION : ne touchez pas aux autres fichiers et ne déplacez pas le fichier TopDownShooter.exe
 
